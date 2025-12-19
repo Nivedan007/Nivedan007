@@ -248,6 +248,5 @@ Passionate and hardworking **Full Stack Developer** with a strong interest in bu
 
 **Made with ❤️ by Nivedan K J**
 
-<img src="https://media.giphy.com/media/ZCJbgx5rq8quM6IYpf/giphy.gif" width="50px" />
 
 </div>
